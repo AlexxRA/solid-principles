@@ -15,4 +15,3 @@ Also, some design patterns are used:
 - Strategy pattern
 
 
-Testing commit from vscode in browser
