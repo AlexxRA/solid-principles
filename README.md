@@ -13,3 +13,6 @@ Also, some design patterns are used:
 
 - Repository pattern
 - Strategy pattern
+
+
+Testing commit from vscode in browser
